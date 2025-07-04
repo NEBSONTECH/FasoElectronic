@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169427776330",
+    "project_id": "fasoelectronic",
+    "storage_bucket": "fasoelectronic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169427776330:android:f8c1a33a7a0723411d87b3",
+        "android_client_info": {
+          "package_name": "com.fasoelectronic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8lXPwn2FGfB-ngmZZhQwmP2H5IWStIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
